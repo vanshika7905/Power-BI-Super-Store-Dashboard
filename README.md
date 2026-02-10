@@ -84,5 +84,10 @@ Converting raw data into meaningful insights
 <img width="1454" height="863" alt="Super store sales Dashboard" src="https://github.com/user-attachments/assets/1079aa76-8d15-45d5-988d-f688f9ffa7cc" />
 
 
+
+
+
+
+
 <img width="1456" height="863" alt="Super store sales dashboard2" src="https://github.com/user-attachments/assets/032d7864-fec0-4e78-9a6f-d455dcaf56f6" />
 
